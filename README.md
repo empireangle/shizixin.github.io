@@ -1,9 +1,9 @@
 # My520
-520表白神器
+表白网页制作效果
 
 ## 一：项目展示
 项目效果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200625202043188.gif)
+对喜欢的人or宠物等进行表白展示！
 
 !在线演示：
 https://empireangle.github.io/shizixin.github.io/
